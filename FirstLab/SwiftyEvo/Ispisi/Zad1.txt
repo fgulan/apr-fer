@@ -1,0 +1,36 @@
+Prvi zadatak
+	Rosenbrockova funkcija
+		Function minimum reached.
+		Generation number: 4813
+		Najbolja tocka:
+		⎛ 1.00027128783473 ⎞
+		⎝ 1.00062519811433 ⎠
+		Vrijednost funkcije:
+		7.55028316369003e-07
+	Funkcija 3.
+		Function minimum reached.
+		Generation number: 325801
+		Najbolja tocka:
+		⎛ 1.00007052705378 ⎞
+		⎜ 1.9997602354613 ⎥
+		⎜ 3.00001420469574 ⎥
+		⎜ 3.9997492167071 ⎥
+		⎝ 4.99954487709184 ⎠
+		Vrijednost funkcije:
+		3.32691994242933e-07
+	Schaffer f6 funkcija
+		Function minimum reached.
+		Generation number: 54172
+		Najbolja tocka:
+		⎛ -0.00029856853354539 ⎞
+		⎝ -0.00083829391484516 ⎠
+		Vrijednost funkcije:
+		7.92671526472777e-07
+	Schaffer f7 funkcija
+		Function minimum reached.
+		Generation number: 15253
+		Najbolja tocka:
+		⎛ -6.56018637581066e-13 ⎞
+		⎝ 5.8361957402862e-13 ⎠
+		Vrijednost funkcije:
+		9.71849467328243e-07

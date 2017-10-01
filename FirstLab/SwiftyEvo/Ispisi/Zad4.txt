@@ -1,0 +1,571 @@
+Cetvrti zadatak
+	Schaffer f6 funkcija
+Velicina populacije: 30
+		Function minimum reached.
+		Generation number: 164969
+		Najbolja tocka:
+		⎛ 0.000196033411545729 ⎞
+		⎝ 0.000909541049436891 ⎠
+		Vrijednost funkcije:
+		8.66559461687455e-07
+		Function minimum reached.
+		Generation number: 160468
+		Najbolja tocka:
+		⎛ -0.000121123475172504 ⎞
+		⎝ -0.000891729113122861 ⎠
+		Vrijednost funkcije:
+		8.10661339223362e-07
+		Function minimum reached.
+		Generation number: 231453
+		Najbolja tocka:
+		⎛ 0.000871268292522481 ⎞
+		⎝ 0.000262191468086215 ⎠
+		Vrijednost funkcije:
+		8.28680426556705e-07
+		Function minimum reached.
+		Generation number: 66023
+		Najbolja tocka:
+		⎛ -0.000298176743289715 ⎞
+		⎝ 0.000749156281345015 ⎠
+		Vrijednost funkcije:
+		6.50794507006669e-07
+		Function minimum reached.
+		Generation number: 111261
+		Najbolja tocka:
+		⎛ -0.000621690720783537 ⎞
+		⎝ -0.000252407301352972 ⎠
+		Vrijednost funkcije:
+		4.50658938888626e-07
+		Function minimum reached.
+		Generation number: 68796
+		Najbolja tocka:
+		⎛ 0.000162979003309808 ⎞
+		⎝ -0.00013008267206559 ⎠
+		Vrijednost funkcije:
+		4.35271401144632e-08
+		Function minimum reached.
+		Generation number: 95128
+		Najbolja tocka:
+		⎛ -0.000290205243229906 ⎞
+		⎝ 0.00027966251550994 ⎠
+		Vrijednost funkcije:
+		1.62592627195313e-07
+		Function minimum reached.
+		Generation number: 97945
+		Najbolja tocka:
+		⎛ -0.000812392847057073 ⎞
+		⎝ -0.000390613232849949 ⎠
+		Vrijednost funkcije:
+		8.13373175090337e-07
+		Function minimum reached.
+		Generation number: 266457
+		Najbolja tocka:
+		⎛ -7.7826813874841e-05 ⎞
+		⎝ -0.000731680634877789 ⎠
+		Vrijednost funkcije:
+		5.41954879695883e-07
+		Function minimum reached.
+		Generation number: 193504
+		Najbolja tocka:
+		⎛ -0.000251328088143618 ⎞
+		⎝ 0.000599403753040463 ⎠
+		Vrijednost funkcije:
+		4.22873057959183e-07
+Velicina populacije: 50
+		Function minimum reached.
+		Generation number: 92781
+		Najbolja tocka:
+		⎛ 0.000220997945278501 ⎞
+		⎝ 0.000420620160775101 ⎠
+		Vrijednost funkcije:
+		2.25987155766383e-07
+		Max evaluation reached.
+		Generation number: 499977
+		Najbolja tocka:
+		⎛ 0.0121420540266999 ⎞
+		⎝ -0.00161889238563352 ⎠
+		Vrijednost funkcije:
+		0.000150192788890946
+		Function minimum reached.
+		Generation number: 76430
+		Najbolja tocka:
+		⎛ -0.000347947428151678 ⎞
+		⎝ -0.000400718547469992 ⎠
+		Vrijednost funkcije:
+		2.81924383171983e-07
+		Function minimum reached.
+		Generation number: 116535
+		Najbolja tocka:
+		⎛ 0.000576377227289437 ⎞
+		⎝ 0.00023298731432745 ⎠
+		Vrijednost funkcije:
+		3.86880240454968e-07
+		Function minimum reached.
+		Generation number: 139863
+		Najbolja tocka:
+		⎛ 0.000291643401496113 ⎞
+		⎝ -0.000112188741141257 ⎠
+		Vrijednost funkcije:
+		9.77398262325124e-08
+		Function minimum reached.
+		Generation number: 150228
+		Najbolja tocka:
+		⎛ -6.58243406509546e-05 ⎞
+		⎝ -8.16486966091637e-06 ⎠
+		Vrijednost funkcije:
+		4.40390851563777e-09
+		Function minimum reached.
+		Generation number: 185299
+		Najbolja tocka:
+		⎛ 0.000214483237211381 ⎞
+		⎝ 0.000719108557946223 ⎠
+		Vrijednost funkcije:
+		5.63683191068254e-07
+		Function minimum reached.
+		Generation number: 161460
+		Najbolja tocka:
+		⎛ -1.46577823100334e-05 ⎞
+		⎝ -0.000657308657249472 ⎠
+		Vrijednost funkcije:
+		4.3270172833676e-07
+		Max evaluation reached.
+		Generation number: 499977
+		Najbolja tocka:
+		⎛ -0.00279259837206885 ⎞
+		⎝ 0.000839334306562928 ⎠
+		Vrijednost funkcije:
+		8.51156658804308e-06
+		Function minimum reached.
+		Generation number: 180622
+		Najbolja tocka:
+		⎛ -0.000715061182156392 ⎞
+		⎝ -0.000208343128053579 ⎠
+		Vrijednost funkcije:
+		5.55273969415904e-07
+Velicina populacije: 100
+		Function minimum reached.
+		Generation number: 414081
+		Najbolja tocka:
+		⎛ 0.000663737658079474 ⎞
+		⎝ -0.000109449770071886 ⎠
+		Vrijednost funkcije:
+		4.52979389164998e-07
+		Function minimum reached.
+		Generation number: 237452
+		Najbolja tocka:
+		⎛ -0.000442556035479892 ⎞
+		⎝ -0.000514810507588627 ⎠
+		Vrijednost funkcije:
+		4.61346517766081e-07
+		Function minimum reached.
+		Generation number: 399135
+		Najbolja tocka:
+		⎛ 0.000225266537041494 ⎞
+		⎝ -0.000657038548739487 ⎠
+		Vrijednost funkcije:
+		4.82927033973457e-07
+		Function minimum reached.
+		Generation number: 272025
+		Najbolja tocka:
+		⎛ 3.09684922765255e-05 ⎞
+		⎝ -0.00025413155359516 ⎠
+		Vrijednost funkcije:
+		6.56074344296265e-08
+		Function minimum reached.
+		Generation number: 344152
+		Najbolja tocka:
+		⎛ -7.43745056189416e-05 ⎞
+		⎝ 0.000407871745511783 ⎠
+		Vrijednost funkcije:
+		1.72062808889706e-07
+		Function minimum reached.
+		Generation number: 218477
+		Najbolja tocka:
+		⎛ -0.000142292755975492 ⎞
+		⎝ 0.000467283821527066 ⎠
+		Vrijednost funkcije:
+		2.38839980515326e-07
+		Function minimum reached.
+		Generation number: 226135
+		Najbolja tocka:
+		⎛ 0.000774269666908051 ⎞
+		⎝ -0.000483029138392656 ⎠
+		Vrijednost funkcije:
+		8.33643243769444e-07
+		Function minimum reached.
+		Generation number: 179681
+		Najbolja tocka:
+		⎛ -0.000240234722995265 ⎞
+		⎝ 0.000312970588709932 ⎠
+		Vrijednost funkcije:
+		1.55818966673937e-07
+		Function minimum reached.
+		Generation number: 391435
+		Najbolja tocka:
+		⎛ -0.000559845626655812 ⎞
+		⎝ 0.000443788375265183 ⎠
+		Vrijednost funkcije:
+		5.10885535653927e-07
+		Function minimum reached.
+		Generation number: 215330
+		Najbolja tocka:
+		⎛ -0.000287018409010707 ⎞
+		⎝ -0.000785005123372026 ⎠
+		Vrijednost funkcije:
+		6.99311059670915e-07
+Velicina populacije: 200
+		Function minimum reached.
+		Generation number: 402318
+		Najbolja tocka:
+		⎛ 0.000394399346064247 ⎞
+		⎝ -0.000152843873794999 ⎠
+		Vrijednost funkcije:
+		1.79090995200415e-07
+		Function minimum reached.
+		Generation number: 250492
+		Najbolja tocka:
+		⎛ 0.000638007886648492 ⎞
+		⎝ 0.000350382760314979 ⎠
+		Vrijednost funkcije:
+		5.30351870198231e-07
+		Max evaluation reached.
+		Generation number: 499902
+		Najbolja tocka:
+		⎛ -0.00192763654250419 ⎞
+		⎝ 0.0127556708763157 ⎠
+		Vrijednost funkcije:
+		0.000166580057643917
+		Max evaluation reached.
+		Generation number: 499902
+		Najbolja tocka:
+		⎛ -0.00110834878525556 ⎞
+		⎝ 0.0047499657174775 ⎠
+		Vrijednost funkcije:
+		2.3814212161688e-05
+		Function minimum reached.
+		Generation number: 392462
+		Najbolja tocka:
+		⎛ -0.000137877046665375 ⎞
+		⎝ 0.000407159132092758 ⎠
+		Vrijednost funkcije:
+		1.84973416028633e-07
+		Max evaluation reached.
+		Generation number: 499902
+		Najbolja tocka:
+		⎛ -0.000253826439247984 ⎞
+		⎝ 0.00486387525319817 ⎠
+		Vrijednost funkcije:
+		2.37452433515251e-05
+		Function minimum reached.
+		Generation number: 305687
+		Najbolja tocka:
+		⎛ -0.000186813332395157 ⎞
+		⎝ -0.000177467981935843 ⎠
+		Vrijednost funkcije:
+		6.64604983269257e-08
+		Max evaluation reached.
+		Generation number: 499902
+		Najbolja tocka:
+		⎛ -0.00704575869254327 ⎞
+		⎝ -0.0011191925293148 ⎠
+		Vrijednost funkcije:
+		5.09453341561161e-05
+		Function minimum reached.
+		Generation number: 418037
+		Najbolja tocka:
+		⎛ 0.000776034416165546 ⎞
+		⎝ 6.11482790111391e-05 ⎠
+		Vrijednost funkcije:
+		6.06574372563617e-07
+		Function minimum reached.
+		Generation number: 469615
+		Najbolja tocka:
+		⎛ -7.58553139341691e-05 ⎞
+		⎝ 0.000631632194331844 ⎠
+		Vrijednost funkcije:
+		4.0511791576936e-07
+
+Vjerojatnost mutacije: 0.1
+		Function minimum reached.
+		Generation number: 50693
+		Najbolja tocka:
+		⎛ -0.00045361794141189 ⎞
+		⎝ -0.00049272938101897 ⎠
+		Vrijednost funkcije:
+		4.48999963653662e-07
+		Function minimum reached.
+		Generation number: 63755
+		Najbolja tocka:
+		⎛ 0.000230606771863353 ⎞
+		⎝ 0.00047484820743074 ⎠
+		Vrijednost funkcije:
+		2.78938937503526e-07
+		Function minimum reached.
+		Generation number: 127079
+		Najbolja tocka:
+		⎛ 8.42568600509055e-05 ⎞
+		⎝ 0.000406604211804862 ⎠
+		Vrijednost funkcije:
+		1.72598619840869e-07
+		Function minimum reached.
+		Generation number: 84304
+		Najbolja tocka:
+		⎛ 0.000170623850715155 ⎞
+		⎝ -0.000973034350188504 ⎠
+		Vrijednost funkcije:
+		9.76883933967443e-07
+		Function minimum reached.
+		Generation number: 198291
+		Najbolja tocka:
+		⎛ 0.00021625183390264 ⎞
+		⎝ 0.000217471800225396 ⎠
+		Vrijednost funkcije:
+		9.41528953690707e-08
+		Function minimum reached.
+		Generation number: 105893
+		Najbolja tocka:
+		⎛ 0.000454636105470878 ⎞
+		⎝ 4.58810503955335e-05 ⎠
+		Vrijednost funkcije:
+		2.09007843532394e-07
+		Function minimum reached.
+		Generation number: 165039
+		Najbolja tocka:
+		⎛ -0.000343557709001047 ⎞
+		⎝ -0.000161878065346533 ⎠
+		Vrijednost funkcije:
+		1.44380636890595e-07
+		Function minimum reached.
+		Generation number: 138113
+		Najbolja tocka:
+		⎛ 0.000283829034858728 ⎞
+		⎝ -2.51136125702274e-06 ⎠
+		Vrijednost funkcije:
+		8.06457911561864e-08
+		Function minimum reached.
+		Generation number: 56763
+		Najbolja tocka:
+		⎛ -0.000380670449059019 ⎞
+		⎝ -0.000662807613465913 ⎠
+		Vrijednost funkcije:
+		5.84808032833006e-07
+		Function minimum reached.
+		Generation number: 107401
+		Najbolja tocka:
+		⎛ 0.000107153410048678 ⎞
+		⎝ 0.000905554641231226 ⎠
+		Vrijednost funkcije:
+		8.32342340773007e-07
+Vjerojatnost mutacije: 0.3
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -0.0081191540386423 ⎞
+		⎝ 0.0103115820653145 ⎠
+		Vrijednost funkcije:
+		0.000172411687275886
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -0.0165591938950272 ⎞
+		⎝ -0.00250289036189532 ⎠
+		Vrijednost funkcije:
+		0.000280725456133224
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -0.0105018079108134 ⎞
+		⎝ 0.00762657274220965 ⎠
+		Vrijednost funkcije:
+		0.000168611518432227
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 0.0056875438671622 ⎞
+		⎝ -0.000919516296526056 ⎠
+		Vrijednost funkcije:
+		3.32264896490964e-05
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 0.0269572182316292 ⎞
+		⎝ -0.0250108367088937 ⎠
+		Vrijednost funkcije:
+		0.00135297274108487
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -0.0205794848314727 ⎞
+		⎝ 0.0103150911267503 ⎠
+		Vrijednost funkcije:
+		0.0005303520580901
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 0.0178672236573527 ⎞
+		⎝ 0.0924616167720924 ⎠
+		Vrijednost funkcije:
+		0.0088509145737441
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 0.0150173074424167 ⎞
+		⎝ -0.0881934373966029 ⎠
+		Vrijednost funkcije:
+		0.00799014788153396
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 0.0448330313655055 ⎞
+		⎝ 0.0578765841840205 ⎠
+		Vrijednost funkcije:
+		0.00535543338508337
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -0.0489192631041169 ⎞
+		⎝ 0.0404611552348803 ⎠
+		Vrijednost funkcije:
+		0.00402878585890254
+Vjerojatnost mutacije: 0.6
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -0.830796834334358 ⎞
+		⎝ 3.02563412281955 ⎠
+		Vrijednost funkcije:
+		0.00971663699916203
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 3.13171854170967 ⎞
+		⎝ -0.115126001870954 ⎠
+		Vrijednost funkcije:
+		0.00973714253880475
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -0.0534596783615786 ⎞
+		⎝ 0.0135099753217158 ⎠
+		Vrijednost funkcije:
+		0.00304039840662251
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 2.57916487653306 ⎞
+		⎝ 1.77395350503981 ⎠
+		Vrijednost funkcije:
+		0.00978109401120553
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -2.91732690649744 ⎞
+		⎝ -1.15695044429363 ⎠
+		Vrijednost funkcije:
+		0.00971592413019323
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 0.981439123774779 ⎞
+		⎝ 2.9785701699399 ⎠
+		Vrijednost funkcije:
+		0.0097215075529502
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -2.34582256586271 ⎞
+		⎝ 2.09335629261511 ⎠
+		Vrijednost funkcije:
+		0.00974626248894178
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 1.27212105992965 ⎞
+		⎝ 2.86774471344302 ⎠
+		Vrijednost funkcije:
+		0.00971743990042623
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -1.24935076340777 ⎞
+		⎝ 2.88584910162891 ⎠
+		Vrijednost funkcije:
+		0.00975356068438143
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 0.580291779942388 ⎞
+		⎝ 3.08016178645682 ⎠
+		Vrijednost funkcije:
+		0.00973271090491229
+Vjerojatnost mutacije: 0.9
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -1.82975483747824 ⎞
+		⎝ 2.54889085989578 ⎠
+		Vrijednost funkcije:
+		0.00971659399352337
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 0.683897719084435 ⎞
+		⎝ 3.10070356210895 ⎠
+		Vrijednost funkcije:
+		0.0110401370919125
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 0.39189388413763 ⎞
+		⎝ 3.11695853683223 ⎠
+		Vrijednost funkcije:
+		0.00972482298971844
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -2.6506090312935 ⎞
+		⎝ 1.70295646608671 ⎠
+		Vrijednost funkcije:
+		0.00985811068165193
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 3.13464705671088 ⎞
+		⎝ -0.233002812887257 ⎠
+		Vrijednost funkcije:
+		0.00973861844191498
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 1.21676049638587 ⎞
+		⎝ -2.88224535635032 ⎠
+		Vrijednost funkcije:
+		0.00981273496127655
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -3.00719159617281 ⎞
+		⎝ 0.903050220956395 ⎠
+		Vrijednost funkcije:
+		0.00971775758363297
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 3.02655712618045 ⎞
+		⎝ -0.784586389313155 ⎠
+		Vrijednost funkcije:
+		0.0098545749390847
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -1.24545165395218 ⎞
+		⎝ 2.89539283827006 ⎠
+		Vrijednost funkcije:
+		0.00989242704044135
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -1.86313236659205 ⎞
+		⎝ -2.4994972654789 ⎠
+		Vrijednost funkcije:
+		0.0101485425801873

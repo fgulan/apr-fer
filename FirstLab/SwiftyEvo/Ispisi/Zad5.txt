@@ -1,0 +1,41 @@
+	Schaffer f6 funkcija
+Velicina turnira: 3
+		Function minimum reached.
+		Generation number: 205067
+		Najbolja tocka:
+		⎛ 0.000623394425583787 ⎞
+		⎝ -0.000166747180146534 ⎠
+		Vrijednost funkcije:
+		4.16841599126805e-07
+Velicina turnira: 5
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 3.1339338204454 ⎞
+		⎝ -0.168954924967973 ⎠
+		Vrijednost funkcije:
+		0.00971590987751436
+Velicina turnira: 7
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -1.07613355689496 ⎞
+		⎝ 2.91307382704401 ⎠
+		Vrijednost funkcije:
+		0.0107844519214102
+Velicina turnira: 9
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -2.19235765047277 ⎞
+		⎝ 2.24580821990185 ⎠
+		Vrijednost funkcije:
+		0.00971590987751758
+Velicina turnira: 12
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -1.96803994166528 ⎞
+		⎝ -2.44476930240451 ⎠
+		Vrijednost funkcije:
+		0.00971590987945314

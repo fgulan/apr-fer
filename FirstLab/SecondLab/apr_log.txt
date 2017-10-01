@@ -1,0 +1,174 @@
+1. Zadatak ---------------------------------------------------
+	// odd je funkcija (x-3)^2
+	Koristim metodu: Koordinatni spust
+	Tocka minimuma: [2.9999999956298695]
+	Vrijednsot minimuma: 1.90980404097245e-17
+	Broj poziva funkcije: 340
+
+	Koristim metodu: Nelder-Mead simplex
+	Tocka minimuma: [4.0]
+	Vrijednsot minimuma: 1.0
+	Broj poziva funkcije: 9
+
+	Koristim metodu: Hooke-Jeves
+	Tocka minimuma: [3.0]
+	Vrijednsot minimuma: 0.0
+	Broj poziva funkcije: 53
+
+2. Zadatak ---------------------------------------------------
+	1. Funkcija
+		Koristim metodu: Koordinatni spust
+		Tocka minimuma: [0.9997298984729639, 0.9994597971029191]
+		Vrijednsot minimuma: 7.29553648598391e-08
+		Broj poziva funkcije: 897923
+
+		Koristim metodu: Nelder-Mead simplex
+		Tocka minimuma: [0.99988535218533148, 0.99967261058535872]
+		Vrijednsot minimuma: 9.75641081541995e-07
+		Broj poziva funkcije: 219
+
+		Koristim metodu: Hooke-Jeves
+		Tocka minimuma: [1.0000015258789063, 1.0000038146972656]
+		Vrijednsot minimuma: 6.05356120442149e-11
+		Broj poziva funkcije: 379
+
+	2. Funkcija
+		Koristim metodu: Koordinatni spust
+		Tocka minimuma: [4.0000002053030972, 2.0000002053030981]
+		Vrijednsot minimuma: 2.1074681003648e-13
+		Broj poziva funkcije: 321
+
+		Koristim metodu: Nelder-Mead simplex
+		Tocka minimuma: [4.0006426060745071, 2.000105413959318]
+		Vrijednsot minimuma: 4.57390978269721e-07
+		Broj poziva funkcije: 66
+
+		Koristim metodu: Hooke-Jeves
+		Tocka minimuma: [4.0, 2.0]
+		Vrijednsot minimuma: 0.0
+		Broj poziva funkcije: 78
+
+	3. Funkcija
+		Koristim metodu: Koordinatni spust
+		Tocka minimuma: [1.0000000000000002, 2.0000001176282067, 2.9999998823717893, 4.0000001753497774, 5.0000002053031025, 5.9999998246502173, 7.0000000043701309]
+		Vrijednsot minimuma: 1.31336343638284e-13
+		Broj poziva funkcije: 2304
+
+		Koristim metodu: Nelder-Mead simplex
+		Tocka minimuma: [0.99940819455921692, 1.9995000409467116, 3.0009575476538584, 4.0005062039765962, 4.9997724501704752, 6.0000699848010228, 7.00053717869132]
+		Vrijednsot minimuma: 2.11857045373608e-06
+		Broj poziva funkcije: 758
+
+		Koristim metodu: Hooke-Jeves
+		Tocka minimuma: [1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0]
+		Vrijednsot minimuma: 0.0
+		Broj poziva funkcije: 363
+
+	4. Funkcija
+		Koristim metodu: Koordinatni spust
+		Tocka minimuma: [1.0999998246502163, 1.0999995893937957]
+		Vrijednsot minimuma: 1.55563502184095
+		Broj poziva funkcije: 654
+
+		Koristim metodu: Nelder-Mead simplex
+		Tocka minimuma: [1.2829263025929474e-06, -1.1753282650588497e-06]
+		Vrijednsot minimuma: 1.73991302913585e-06
+		Broj poziva funkcije: 186
+
+		Koristim metodu: Hooke-Jeves
+		Tocka minimuma: [3.0999999999999996, 3.0999999999999996]
+		Vrijednsot minimuma: 4.38406204335659
+		Broj poziva funkcije: 85
+
+3. Zadatak ---------------------------------------------------
+	Koristim metodu: Nelder-Mead simplex
+	Tocka minimuma: [1.4895495103880759e-07, 8.3893402937028999e-07]
+	Broj poziva funkcije: 190
+
+	Koristim metodu: Hooke-Jeves
+	Tocka minimuma: [5.0, 5.0]
+	Broj poziva funkcije: 77
+
+4. Zadatak ---------------------------------------------------
+	Koristim metodu: Nelder-Mead simplex, korak: 1
+	Tocka minimuma: [0.99970432030670509, 0.99937001375934642]
+	Broj poziva funkcije: 90
+
+	Koristim metodu: Nelder-Mead simplex, korak: 2
+	Tocka minimuma: [1.0002803222963426, 1.0005747147971076]
+	Broj poziva funkcije: 238
+
+	Koristim metodu: Nelder-Mead simplex, korak: 3
+	Tocka minimuma: [0.99932231181355469, 0.99862983068872446]
+	Broj poziva funkcije: 148
+
+	Koristim metodu: Nelder-Mead simplex, korak: 4
+	Tocka minimuma: [0.99972345266706553, 0.99948237060697864]
+	Broj poziva funkcije: 141
+
+	Koristim metodu: Nelder-Mead simplex, korak: 5
+	Tocka minimuma: [0.99995110309473423, 0.99986873917766794]
+	Broj poziva funkcije: 143
+
+	Koristim metodu: Nelder-Mead simplex, korak: 6
+	Tocka minimuma: [0.99949949792589232, 0.9990380929614584]
+	Broj poziva funkcije: 285
+
+	Koristim metodu: Nelder-Mead simplex, korak: 7
+	Tocka minimuma: [1.0001220248646796, 1.0002599738181737]
+	Broj poziva funkcije: 130
+
+	Koristim metodu: Nelder-Mead simplex, korak: 8
+	Tocka minimuma: [1.0002274926099424, 1.0004782785087181]
+	Broj poziva funkcije: 181
+
+	Koristim metodu: Nelder-Mead simplex, korak: 9
+	Tocka minimuma: [0.99980811437596728, 0.99961348950730722]
+	Broj poziva funkcije: 142
+
+	Koristim metodu: Nelder-Mead simplex, korak: 10
+	Tocka minimuma: [0.99966083111595383, 0.99922578274493068]
+	Broj poziva funkcije: 128
+
+	Koristim metodu: Nelder-Mead simplex, korak: 11
+	Tocka minimuma: [0.99962704875162545, 0.99934774079748079]
+	Broj poziva funkcije: 141
+
+	Koristim metodu: Nelder-Mead simplex, korak: 12
+	Tocka minimuma: [1.0002582003946132, 1.0005260018457984]
+	Broj poziva funkcije: 146
+
+	Koristim metodu: Nelder-Mead simplex, korak: 13
+	Tocka minimuma: [1.0001330024954327, 1.0001750291742431]
+	Broj poziva funkcije: 309
+
+	Koristim metodu: Nelder-Mead simplex, korak: 14
+	Tocka minimuma: [1.0000225108268694, 0.99997011665392821]
+	Broj poziva funkcije: 132
+
+	Koristim metodu: Nelder-Mead simplex, korak: 15
+	Tocka minimuma: [0.99940185334239073, 0.99883281092605725]
+	Broj poziva funkcije: 123
+
+	Koristim metodu: Nelder-Mead simplex, korak: 16
+	Tocka minimuma: [0.99919915986839736, 0.99836004179732907]
+	Broj poziva funkcije: 151
+
+	Koristim metodu: Nelder-Mead simplex, korak: 17
+	Tocka minimuma: [0.99965757846974523, 0.99933117471662714]
+	Broj poziva funkcije: 133
+
+	Koristim metodu: Nelder-Mead simplex, korak: 18
+	Tocka minimuma: [1.0005748184414387, 1.0011075087675489]
+	Broj poziva funkcije: 130
+
+	Koristim metodu: Nelder-Mead simplex, korak: 19
+	Tocka minimuma: [1.0002318067587352, 1.0004819710706039]
+	Broj poziva funkcije: 146
+
+	Koristim metodu: Nelder-Mead simplex, korak: 20
+	Tocka minimuma: [1.0009781126791069, 1.0020280449902439]
+	Broj poziva funkcije: 182
+
+5. Zadatak ---------------------------------------------------
+Vjerojatnost pronalaska minimuma: 51.7%

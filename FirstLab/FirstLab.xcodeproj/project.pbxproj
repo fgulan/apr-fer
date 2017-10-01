@@ -1,0 +1,663 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2C02DE5E1DDD08A1004B5033 /* BoxMethod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C02DE5D1DDD08A1004B5033 /* BoxMethod.swift */; };
+		2C1297DA1DCDF93800EB01D6 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C1297D91DCDF93800EB01D6 /* Functions.swift */; };
+		2C1297DC1DCDFB2800EB01D6 /* Operators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C1297DB1DCDFB2800EB01D6 /* Operators.swift */; };
+		2C1789131DA942A500E054B0 /* Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C1789111DA942A500E054B0 /* Matrix.swift */; };
+		2C1789141DA942A500E054B0 /* MatrixFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C1789121DA942A500E054B0 /* MatrixFactory.swift */; };
+		2C18C1CC1EAA16E800E1B9BE /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CDAE78C1DA9417100EF94E4 /* main.swift */; };
+		2C24ABFE1DC8EE230074DB6E /* HookeJeves.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C24ABFD1DC8EE230074DB6E /* HookeJeves.swift */; };
+		2C2A1CD81E07139B0031EA83 /* FourthTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2A1CD71E07139B0031EA83 /* FourthTask.swift */; };
+		2C2A1CDA1E072C540031EA83 /* FifthTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2A1CD91E072C540031EA83 /* FifthTask.swift */; };
+		2C34B5F61DF15D9D007618C3 /* Transformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C34B5F51DF15D9D007618C3 /* Transformation.swift */; };
+		2C4244931E2113FC000D1C87 /* DiffSolver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4244921E2113FC000D1C87 /* DiffSolver.swift */; };
+		2C4244951E211AC4000D1C87 /* RungeKutta4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4244941E211AC4000D1C87 /* RungeKutta4.swift */; };
+		2C4244981E212289000D1C87 /* A1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C4244971E212289000D1C87 /* A1.txt */; };
+		2C42449A1E2122CC000D1C87 /* B1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C4244991E2122CC000D1C87 /* B1.txt */; };
+		2C42449C1E2122D6000D1C87 /* X1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C42449B1E2122D6000D1C87 /* X1.txt */; };
+		2C42449E1E212971000D1C87 /* Trapezoidal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C42449D1E212971000D1C87 /* Trapezoidal.swift */; };
+		2C42F04C1E280A7600EE1913 /* A2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C42F0491E280A7600EE1913 /* A2.txt */; };
+		2C42F04D1E280A7600EE1913 /* B2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C42F04A1E280A7600EE1913 /* B2.txt */; };
+		2C42F04E1E280A7600EE1913 /* X2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C42F04B1E280A7600EE1913 /* X2.txt */; };
+		2C489D0B1DBD02E600862329 /* zad_sustav_1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C489D0A1DBD02E600862329 /* zad_sustav_1.txt */; };
+		2C489D0D1DBD030500862329 /* zad_sustav_2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C489D0C1DBD030500862329 /* zad_sustav_2.txt */; };
+		2C489D0F1DBD032300862329 /* zad_vektor_2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C489D0E1DBD032300862329 /* zad_vektor_2.txt */; };
+		2C489D181DBD072400862329 /* zad_sustav_3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C489D101DBD072400862329 /* zad_sustav_3.txt */; };
+		2C489D191DBD072400862329 /* zad_sustav_4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C489D111DBD072400862329 /* zad_sustav_4.txt */; };
+		2C489D1A1DBD072400862329 /* zad_sustav_5.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C489D121DBD072400862329 /* zad_sustav_5.txt */; };
+		2C489D1B1DBD072400862329 /* zad_sustav_6.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C489D131DBD072400862329 /* zad_sustav_6.txt */; };
+		2C489D1C1DBD072400862329 /* zad_vektor_3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C489D141DBD072400862329 /* zad_vektor_3.txt */; };
+		2C489D1D1DBD072400862329 /* zad_vektor_4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C489D151DBD072400862329 /* zad_vektor_4.txt */; };
+		2C489D1E1DBD072400862329 /* zad_vektor_5.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C489D161DBD072400862329 /* zad_vektor_5.txt */; };
+		2C489D1F1DBD072400862329 /* zad_vektor_6.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2C489D171DBD072400862329 /* zad_vektor_6.txt */; };
+		2C495CB41DC8766F00093C41 /* NelderMeadSimplex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C495CB31DC8766F00093C41 /* NelderMeadSimplex.swift */; };
+		2C4C4D991DB558CA00022AE3 /* Decomposition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4C4D981DB558CA00022AE3 /* Decomposition.swift */; };
+		2C4C4D9B1DB5616900022AE3 /* MatrixSubstitution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4C4D9A1DB5616900022AE3 /* MatrixSubstitution.swift */; };
+		2C827E561E05853F00F3C151 /* Chromosome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C827E551E05853F00F3C151 /* Chromosome.swift */; };
+		2C905C411DD8C4F0002940F8 /* GradientDescent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C905C401DD8C4F0002940F8 /* GradientDescent.swift */; };
+		2C9292051DBCE8DE00CBF5C2 /* Solver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9292041DBCE8DE00CBF5C2 /* Solver.swift */; };
+		2CBD212E1E06EE6800F322A3 /* FirstTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CBD212D1E06EE6800F322A3 /* FirstTask.swift */; };
+		2CBD21301E06F85F00F322A3 /* SecondTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CBD212F1E06F85F00F322A3 /* SecondTask.swift */; };
+		2CBD21321E06FA7300F322A3 /* ThirdTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CBD21311E06FA7300F322A3 /* ThirdTask.swift */; };
+		2CD916321DC7C1A100449618 /* Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CD916311DC7C1A100449618 /* Function.swift */; };
+		2CD916341DC7C63400449618 /* UnimodalInterval.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CD916331DC7C63400449618 /* UnimodalInterval.swift */; };
+		2CD916371DC7D59800449618 /* Optimizable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CD916361DC7D59800449618 /* Optimizable.swift */; };
+		2CD916391DC7D6EE00449618 /* GoldenSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CD916381DC7D6EE00449618 /* GoldenSection.swift */; };
+		2CD9163B1DC7D7CD00449618 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CD9163A1DC7D7CD00449618 /* Constants.swift */; };
+		2CD9163F1DC7F27200449618 /* CoordinateDescent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CD9163E1DC7F27200449618 /* CoordinateDescent.swift */; };
+		2CD979601DBEA63F0079855E /* zad_9.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2CD9795F1DBEA63F0079855E /* zad_9.txt */; };
+		2CEAB3431E05682100F4F11F /* Random.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CEAB3421E05682100F4F11F /* Random.swift */; };
+		2CEAB3471E05698900F4F11F /* GeneticAlgorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CEAB3461E05698900F4F11F /* GeneticAlgorithm.swift */; };
+		2CEAB34B1E056F5000F4F11F /* Operator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CEAB34A1E056F5000F4F11F /* Operator.swift */; };
+		2CF022D91E05DEBF0074F7AD /* Selection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CF022D81E05DEBF0074F7AD /* Selection.swift */; };
+		78DCF3F0E1DB717CC2899A22 /* Pods_FirstLab.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC22705AC236882E3DBBDF22 /* Pods_FirstLab.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2C02DE5D1DDD08A1004B5033 /* BoxMethod.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BoxMethod.swift; sourceTree = "<group>"; };
+		2C1297D91DCDF93800EB01D6 /* Functions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
+		2C1297DB1DCDFB2800EB01D6 /* Operators.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Operators.swift; sourceTree = "<group>"; };
+		2C1789111DA942A500E054B0 /* Matrix.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Matrix.swift; sourceTree = "<group>"; };
+		2C1789121DA942A500E054B0 /* MatrixFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MatrixFactory.swift; sourceTree = "<group>"; };
+		2C24ABFD1DC8EE230074DB6E /* HookeJeves.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HookeJeves.swift; sourceTree = "<group>"; };
+		2C2A1CD71E07139B0031EA83 /* FourthTask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FourthTask.swift; sourceTree = "<group>"; };
+		2C2A1CD91E072C540031EA83 /* FifthTask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FifthTask.swift; sourceTree = "<group>"; };
+		2C34B5F51DF15D9D007618C3 /* Transformation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Transformation.swift; sourceTree = "<group>"; };
+		2C42448F1E210D6C000D1C87 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		2C4244921E2113FC000D1C87 /* DiffSolver.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DiffSolver.swift; sourceTree = "<group>"; };
+		2C4244941E211AC4000D1C87 /* RungeKutta4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RungeKutta4.swift; sourceTree = "<group>"; };
+		2C4244971E212289000D1C87 /* A1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = A1.txt; sourceTree = "<group>"; };
+		2C4244991E2122CC000D1C87 /* B1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = B1.txt; sourceTree = "<group>"; };
+		2C42449B1E2122D6000D1C87 /* X1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = X1.txt; sourceTree = "<group>"; };
+		2C42449D1E212971000D1C87 /* Trapezoidal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Trapezoidal.swift; sourceTree = "<group>"; };
+		2C42F0491E280A7600EE1913 /* A2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = A2.txt; sourceTree = "<group>"; };
+		2C42F04A1E280A7600EE1913 /* B2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = B2.txt; sourceTree = "<group>"; };
+		2C42F04B1E280A7600EE1913 /* X2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = X2.txt; sourceTree = "<group>"; };
+		2C489D0A1DBD02E600862329 /* zad_sustav_1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = zad_sustav_1.txt; sourceTree = "<group>"; };
+		2C489D0C1DBD030500862329 /* zad_sustav_2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = zad_sustav_2.txt; sourceTree = "<group>"; };
+		2C489D0E1DBD032300862329 /* zad_vektor_2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = zad_vektor_2.txt; sourceTree = "<group>"; };
+		2C489D101DBD072400862329 /* zad_sustav_3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = zad_sustav_3.txt; sourceTree = "<group>"; };
+		2C489D111DBD072400862329 /* zad_sustav_4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = zad_sustav_4.txt; sourceTree = "<group>"; };
+		2C489D121DBD072400862329 /* zad_sustav_5.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = zad_sustav_5.txt; sourceTree = "<group>"; };
+		2C489D131DBD072400862329 /* zad_sustav_6.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = zad_sustav_6.txt; sourceTree = "<group>"; };
+		2C489D141DBD072400862329 /* zad_vektor_3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = zad_vektor_3.txt; sourceTree = "<group>"; };
+		2C489D151DBD072400862329 /* zad_vektor_4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = zad_vektor_4.txt; sourceTree = "<group>"; };
+		2C489D161DBD072400862329 /* zad_vektor_5.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = zad_vektor_5.txt; sourceTree = "<group>"; };
+		2C489D171DBD072400862329 /* zad_vektor_6.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = zad_vektor_6.txt; sourceTree = "<group>"; };
+		2C495CB31DC8766F00093C41 /* NelderMeadSimplex.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NelderMeadSimplex.swift; sourceTree = "<group>"; };
+		2C4C4D981DB558CA00022AE3 /* Decomposition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Decomposition.swift; sourceTree = "<group>"; };
+		2C4C4D9A1DB5616900022AE3 /* MatrixSubstitution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MatrixSubstitution.swift; sourceTree = "<group>"; };
+		2C827E551E05853F00F3C151 /* Chromosome.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Chromosome.swift; sourceTree = "<group>"; };
+		2C905C3D1DD8C392002940F8 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		2C905C401DD8C4F0002940F8 /* GradientDescent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GradientDescent.swift; sourceTree = "<group>"; };
+		2C9292041DBCE8DE00CBF5C2 /* Solver.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Solver.swift; sourceTree = "<group>"; };
+		2CBD212D1E06EE6800F322A3 /* FirstTask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstTask.swift; sourceTree = "<group>"; };
+		2CBD212F1E06F85F00F322A3 /* SecondTask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondTask.swift; sourceTree = "<group>"; };
+		2CBD21311E06FA7300F322A3 /* ThirdTask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdTask.swift; sourceTree = "<group>"; };
+		2CD9162F1DC7C07D00449618 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		2CD916311DC7C1A100449618 /* Function.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Function.swift; sourceTree = "<group>"; };
+		2CD916331DC7C63400449618 /* UnimodalInterval.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UnimodalInterval.swift; sourceTree = "<group>"; };
+		2CD916361DC7D59800449618 /* Optimizable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Optimizable.swift; sourceTree = "<group>"; };
+		2CD916381DC7D6EE00449618 /* GoldenSection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GoldenSection.swift; sourceTree = "<group>"; };
+		2CD9163A1DC7D7CD00449618 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		2CD9163E1DC7F27200449618 /* CoordinateDescent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoordinateDescent.swift; sourceTree = "<group>"; };
+		2CD9795F1DBEA63F0079855E /* zad_9.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = zad_9.txt; sourceTree = "<group>"; };
+		2CDAE77B1DA9415600EF94E4 /* FirstLab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstLab.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CDAE7851DA9415600EF94E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2CDAE78B1DA9417000EF94E4 /* FirstLab-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FirstLab-Bridging-Header.h"; sourceTree = "<group>"; };
+		2CDAE78C1DA9417100EF94E4 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		2CEAB3421E05682100F4F11F /* Random.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Random.swift; sourceTree = "<group>"; };
+		2CEAB3441E05684B00F4F11F /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		2CEAB3461E05698900F4F11F /* GeneticAlgorithm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GeneticAlgorithm.swift; sourceTree = "<group>"; };
+		2CEAB34A1E056F5000F4F11F /* Operator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Operator.swift; sourceTree = "<group>"; };
+		2CF022D81E05DEBF0074F7AD /* Selection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Selection.swift; sourceTree = "<group>"; };
+		2D497C5FEEE06F26DBF4A9A0 /* Pods-FirstLab.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FirstLab.release.xcconfig"; path = "Pods/Target Support Files/Pods-FirstLab/Pods-FirstLab.release.xcconfig"; sourceTree = "<group>"; };
+		EC22705AC236882E3DBBDF22 /* Pods_FirstLab.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FirstLab.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FEEB56E8662630F86B8FF6A2 /* Pods-FirstLab.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FirstLab.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FirstLab/Pods-FirstLab.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2CDAE7781DA9415600EF94E4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				78DCF3F0E1DB717CC2899A22 /* Pods_FirstLab.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0A312DBADD52EF0A61DC427C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FEEB56E8662630F86B8FF6A2 /* Pods-FirstLab.debug.xcconfig */,
+				2D497C5FEEE06F26DBF4A9A0 /* Pods-FirstLab.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		104216BDB4B2C3948E4B2C5A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EC22705AC236882E3DBBDF22 /* Pods_FirstLab.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2C1789101DA941FA00E054B0 /* Matrix */ = {
+			isa = PBXGroup;
+			children = (
+				2C4C4D9A1DB5616900022AE3 /* MatrixSubstitution.swift */,
+				2C1789111DA942A500E054B0 /* Matrix.swift */,
+				2C1789121DA942A500E054B0 /* MatrixFactory.swift */,
+				2C4C4D981DB558CA00022AE3 /* Decomposition.swift */,
+			);
+			path = Matrix;
+			sourceTree = "<group>";
+		};
+		2C42448E1E210D5D000D1C87 /* FifthLab */ = {
+			isa = PBXGroup;
+			children = (
+				2C4244961E212263000D1C87 /* Files */,
+				2C4244911E2113A3000D1C87 /* Approximation */,
+				2C42448F1E210D6C000D1C87 /* main.swift */,
+			);
+			path = FifthLab;
+			sourceTree = "<group>";
+		};
+		2C4244911E2113A3000D1C87 /* Approximation */ = {
+			isa = PBXGroup;
+			children = (
+				2C4244921E2113FC000D1C87 /* DiffSolver.swift */,
+				2C4244941E211AC4000D1C87 /* RungeKutta4.swift */,
+				2C42449D1E212971000D1C87 /* Trapezoidal.swift */,
+			);
+			name = Approximation;
+			sourceTree = "<group>";
+		};
+		2C4244961E212263000D1C87 /* Files */ = {
+			isa = PBXGroup;
+			children = (
+				2C4244971E212289000D1C87 /* A1.txt */,
+				2C4244991E2122CC000D1C87 /* B1.txt */,
+				2C42449B1E2122D6000D1C87 /* X1.txt */,
+				2C42F0491E280A7600EE1913 /* A2.txt */,
+				2C42F04A1E280A7600EE1913 /* B2.txt */,
+				2C42F04B1E280A7600EE1913 /* X2.txt */,
+			);
+			path = Files;
+			sourceTree = "<group>";
+		};
+		2C489D091DBD02C100862329 /* Zadatak */ = {
+			isa = PBXGroup;
+			children = (
+				2C489D0A1DBD02E600862329 /* zad_sustav_1.txt */,
+				2C489D0C1DBD030500862329 /* zad_sustav_2.txt */,
+				2C489D0E1DBD032300862329 /* zad_vektor_2.txt */,
+				2C489D101DBD072400862329 /* zad_sustav_3.txt */,
+				2C489D141DBD072400862329 /* zad_vektor_3.txt */,
+				2C489D111DBD072400862329 /* zad_sustav_4.txt */,
+				2C489D151DBD072400862329 /* zad_vektor_4.txt */,
+				2C489D121DBD072400862329 /* zad_sustav_5.txt */,
+				2C489D161DBD072400862329 /* zad_vektor_5.txt */,
+				2C489D131DBD072400862329 /* zad_sustav_6.txt */,
+				2C489D171DBD072400862329 /* zad_vektor_6.txt */,
+				2CD9795F1DBEA63F0079855E /* zad_9.txt */,
+			);
+			path = Zadatak;
+			sourceTree = "<group>";
+		};
+		2C905C3C1DD8C34F002940F8 /* ThirdLab */ = {
+			isa = PBXGroup;
+			children = (
+				2C905C3F1DD8C3B8002940F8 /* Optimization */,
+				2C905C3D1DD8C392002940F8 /* main.swift */,
+			);
+			path = ThirdLab;
+			sourceTree = "<group>";
+		};
+		2C905C3F1DD8C3B8002940F8 /* Optimization */ = {
+			isa = PBXGroup;
+			children = (
+				2C905C401DD8C4F0002940F8 /* GradientDescent.swift */,
+				2C02DE5D1DDD08A1004B5033 /* BoxMethod.swift */,
+				2C34B5F51DF15D9D007618C3 /* Transformation.swift */,
+			);
+			name = Optimization;
+			sourceTree = "<group>";
+		};
+		2C9292011DBCE8C800CBF5C2 /* Equation */ = {
+			isa = PBXGroup;
+			children = (
+				2C9292041DBCE8DE00CBF5C2 /* Solver.swift */,
+			);
+			name = Equation;
+			sourceTree = "<group>";
+		};
+		2CBD212C1E06EE5F00F322A3 /* Tasks */ = {
+			isa = PBXGroup;
+			children = (
+				2CBD212D1E06EE6800F322A3 /* FirstTask.swift */,
+				2CBD212F1E06F85F00F322A3 /* SecondTask.swift */,
+				2CBD21311E06FA7300F322A3 /* ThirdTask.swift */,
+				2C2A1CD71E07139B0031EA83 /* FourthTask.swift */,
+				2C2A1CD91E072C540031EA83 /* FifthTask.swift */,
+			);
+			path = Tasks;
+			sourceTree = "<group>";
+		};
+		2CD9162E1DC7BFD600449618 /* SecondLab */ = {
+			isa = PBXGroup;
+			children = (
+				2CD9162F1DC7C07D00449618 /* main.swift */,
+				2C1297D91DCDF93800EB01D6 /* Functions.swift */,
+				2CD916311DC7C1A100449618 /* Function.swift */,
+				2CD916331DC7C63400449618 /* UnimodalInterval.swift */,
+				2CD9163A1DC7D7CD00449618 /* Constants.swift */,
+				2C1297DB1DCDFB2800EB01D6 /* Operators.swift */,
+				2CD916351DC7D58B00449618 /* Optimization */,
+			);
+			path = SecondLab;
+			sourceTree = "<group>";
+		};
+		2CD916351DC7D58B00449618 /* Optimization */ = {
+			isa = PBXGroup;
+			children = (
+				2CD916361DC7D59800449618 /* Optimizable.swift */,
+				2CD916381DC7D6EE00449618 /* GoldenSection.swift */,
+				2CD9163E1DC7F27200449618 /* CoordinateDescent.swift */,
+				2C495CB31DC8766F00093C41 /* NelderMeadSimplex.swift */,
+				2C24ABFD1DC8EE230074DB6E /* HookeJeves.swift */,
+			);
+			path = Optimization;
+			sourceTree = "<group>";
+		};
+		2CDAE7721DA9415600EF94E4 = {
+			isa = PBXGroup;
+			children = (
+				2C42448E1E210D5D000D1C87 /* FifthLab */,
+				2CEAB33F1E05636400F4F11F /* SwiftyEvo */,
+				2C905C3C1DD8C34F002940F8 /* ThirdLab */,
+				2CD9162E1DC7BFD600449618 /* SecondLab */,
+				2CDAE77D1DA9415600EF94E4 /* FirstLab */,
+				0A312DBADD52EF0A61DC427C /* Pods */,
+				2CDAE77C1DA9415600EF94E4 /* Products */,
+				104216BDB4B2C3948E4B2C5A /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		2CDAE77C1DA9415600EF94E4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2CDAE77B1DA9415600EF94E4 /* FirstLab.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2CDAE77D1DA9415600EF94E4 /* FirstLab */ = {
+			isa = PBXGroup;
+			children = (
+				2C489D091DBD02C100862329 /* Zadatak */,
+				2C9292011DBCE8C800CBF5C2 /* Equation */,
+				2C1789101DA941FA00E054B0 /* Matrix */,
+				2CDAE7851DA9415600EF94E4 /* Info.plist */,
+				2CDAE78C1DA9417100EF94E4 /* main.swift */,
+				2CDAE78B1DA9417000EF94E4 /* FirstLab-Bridging-Header.h */,
+			);
+			path = FirstLab;
+			sourceTree = "<group>";
+		};
+		2CEAB33F1E05636400F4F11F /* SwiftyEvo */ = {
+			isa = PBXGroup;
+			children = (
+				2CBD212C1E06EE5F00F322A3 /* Tasks */,
+				2CEAB3441E05684B00F4F11F /* main.swift */,
+				2CEAB3461E05698900F4F11F /* GeneticAlgorithm.swift */,
+				2CEAB3421E05682100F4F11F /* Random.swift */,
+				2CEAB34A1E056F5000F4F11F /* Operator.swift */,
+				2C827E551E05853F00F3C151 /* Chromosome.swift */,
+				2CF022D81E05DEBF0074F7AD /* Selection.swift */,
+			);
+			path = SwiftyEvo;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2CDAE77A1DA9415600EF94E4 /* FirstLab */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2CDAE7881DA9415600EF94E4 /* Build configuration list for PBXNativeTarget "FirstLab" */;
+			buildPhases = (
+				8A43DD4380B9840D69035BF8 /* [CP] Check Pods Manifest.lock */,
+				2CDAE7771DA9415600EF94E4 /* Sources */,
+				2CDAE7781DA9415600EF94E4 /* Frameworks */,
+				2CDAE7791DA9415600EF94E4 /* Resources */,
+				455B3B46934AB66B897944DD /* [CP] Embed Pods Frameworks */,
+				31E31E99C194E079D8D1E670 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FirstLab;
+			productName = FirstLab;
+			productReference = 2CDAE77B1DA9415600EF94E4 /* FirstLab.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2CDAE7731DA9415600EF94E4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0800;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "Filip Gulan";
+				TargetAttributes = {
+					2CDAE77A1DA9415600EF94E4 = {
+						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 5Z4ZV5Y576;
+						LastSwiftMigration = 0800;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 2CDAE7761DA9415600EF94E4 /* Build configuration list for PBXProject "FirstLab" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2CDAE7721DA9415600EF94E4;
+			productRefGroup = 2CDAE77C1DA9415600EF94E4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2CDAE77A1DA9415600EF94E4 /* FirstLab */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2CDAE7791DA9415600EF94E4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C42449C1E2122D6000D1C87 /* X1.txt in Resources */,
+				2C489D1D1DBD072400862329 /* zad_vektor_4.txt in Resources */,
+				2C489D1A1DBD072400862329 /* zad_sustav_5.txt in Resources */,
+				2C489D1C1DBD072400862329 /* zad_vektor_3.txt in Resources */,
+				2C489D181DBD072400862329 /* zad_sustav_3.txt in Resources */,
+				2CD979601DBEA63F0079855E /* zad_9.txt in Resources */,
+				2C489D191DBD072400862329 /* zad_sustav_4.txt in Resources */,
+				2C42F04C1E280A7600EE1913 /* A2.txt in Resources */,
+				2C42F04E1E280A7600EE1913 /* X2.txt in Resources */,
+				2C489D1E1DBD072400862329 /* zad_vektor_5.txt in Resources */,
+				2C489D1B1DBD072400862329 /* zad_sustav_6.txt in Resources */,
+				2C489D0F1DBD032300862329 /* zad_vektor_2.txt in Resources */,
+				2C489D0B1DBD02E600862329 /* zad_sustav_1.txt in Resources */,
+				2C4244981E212289000D1C87 /* A1.txt in Resources */,
+				2C489D1F1DBD072400862329 /* zad_vektor_6.txt in Resources */,
+				2C489D0D1DBD030500862329 /* zad_sustav_2.txt in Resources */,
+				2C42449A1E2122CC000D1C87 /* B1.txt in Resources */,
+				2C42F04D1E280A7600EE1913 /* B2.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		31E31E99C194E079D8D1E670 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FirstLab/Pods-FirstLab-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		455B3B46934AB66B897944DD /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FirstLab/Pods-FirstLab-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8A43DD4380B9840D69035BF8 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2CDAE7771DA9415600EF94E4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C905C411DD8C4F0002940F8 /* GradientDescent.swift in Sources */,
+				2C4244931E2113FC000D1C87 /* DiffSolver.swift in Sources */,
+				2CF022D91E05DEBF0074F7AD /* Selection.swift in Sources */,
+				2C1789141DA942A500E054B0 /* MatrixFactory.swift in Sources */,
+				2CEAB3431E05682100F4F11F /* Random.swift in Sources */,
+				2CBD212E1E06EE6800F322A3 /* FirstTask.swift in Sources */,
+				2C4244951E211AC4000D1C87 /* RungeKutta4.swift in Sources */,
+				2C2A1CDA1E072C540031EA83 /* FifthTask.swift in Sources */,
+				2CD9163B1DC7D7CD00449618 /* Constants.swift in Sources */,
+				2C4C4D9B1DB5616900022AE3 /* MatrixSubstitution.swift in Sources */,
+				2C42449E1E212971000D1C87 /* Trapezoidal.swift in Sources */,
+				2CD916321DC7C1A100449618 /* Function.swift in Sources */,
+				2C827E561E05853F00F3C151 /* Chromosome.swift in Sources */,
+				2C24ABFE1DC8EE230074DB6E /* HookeJeves.swift in Sources */,
+				2C495CB41DC8766F00093C41 /* NelderMeadSimplex.swift in Sources */,
+				2CBD21301E06F85F00F322A3 /* SecondTask.swift in Sources */,
+				2CD916371DC7D59800449618 /* Optimizable.swift in Sources */,
+				2C1297DA1DCDF93800EB01D6 /* Functions.swift in Sources */,
+				2C1297DC1DCDFB2800EB01D6 /* Operators.swift in Sources */,
+				2CEAB3471E05698900F4F11F /* GeneticAlgorithm.swift in Sources */,
+				2C9292051DBCE8DE00CBF5C2 /* Solver.swift in Sources */,
+				2CD916391DC7D6EE00449618 /* GoldenSection.swift in Sources */,
+				2CD9163F1DC7F27200449618 /* CoordinateDescent.swift in Sources */,
+				2CBD21321E06FA7300F322A3 /* ThirdTask.swift in Sources */,
+				2C02DE5E1DDD08A1004B5033 /* BoxMethod.swift in Sources */,
+				2C2A1CD81E07139B0031EA83 /* FourthTask.swift in Sources */,
+				2C1789131DA942A500E054B0 /* Matrix.swift in Sources */,
+				2CEAB34B1E056F5000F4F11F /* Operator.swift in Sources */,
+				2C18C1CC1EAA16E800E1B9BE /* main.swift in Sources */,
+				2C4C4D991DB558CA00022AE3 /* Decomposition.swift in Sources */,
+				2C34B5F61DF15D9D007618C3 /* Transformation.swift in Sources */,
+				2CD916341DC7C63400449618 /* UnimodalInterval.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		2CDAE7861DA9415600EF94E4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		2CDAE7871DA9415600EF94E4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+			};
+			name = Release;
+		};
+		2CDAE7891DA9415600EF94E4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FEEB56E8662630F86B8FF6A2 /* Pods-FirstLab.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 5Z4ZV5Y576;
+				INFOPLIST_FILE = FirstLab/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = hr.fer.zemris.apr.FirstLab;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "FirstLab/FirstLab-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		2CDAE78A1DA9415600EF94E4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2D497C5FEEE06F26DBF4A9A0 /* Pods-FirstLab.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 5Z4ZV5Y576;
+				INFOPLIST_FILE = FirstLab/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = hr.fer.zemris.apr.FirstLab;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "FirstLab/FirstLab-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2CDAE7761DA9415600EF94E4 /* Build configuration list for PBXProject "FirstLab" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2CDAE7861DA9415600EF94E4 /* Debug */,
+				2CDAE7871DA9415600EF94E4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2CDAE7881DA9415600EF94E4 /* Build configuration list for PBXNativeTarget "FirstLab" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2CDAE7891DA9415600EF94E4 /* Debug */,
+				2CDAE78A1DA9415600EF94E4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2CDAE7731DA9415600EF94E4 /* Project object */;
+}

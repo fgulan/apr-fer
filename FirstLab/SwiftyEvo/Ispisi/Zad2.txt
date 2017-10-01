@@ -1,0 +1,91 @@
+Drugi zadatak
+	Schaffer f6 funkcija
+	Dimenzija: 1
+		Function minimum reached.
+		Generation number: 776
+		Najbolja tocka:
+		( 0.000899199528447775 )
+		Vrijednost funkcije:
+		8.09368132570487e-07
+	Dimenzija: 3
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -2.06365114089593 ⎞
+		⎜ 1.91803080792794 ⎥
+		⎝ -1.38296375603871 ⎠
+		Vrijednost funkcije:
+		0.00971590987751436
+	Dimenzija: 6
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 1.55487579432652 ⎞
+		⎜ -0.357886743117917 ⎥
+		⎜ -0.858011702271319 ⎥
+		⎜ -1.31667544572807 ⎥
+		⎜ -1.34870091619993 ⎥
+		⎝ -1.73653472262941 ⎠
+		Vrijednost funkcije:
+		0.00971590987751447
+	Dimenzija: 10
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -0.382575112181767 ⎞
+		⎜ 2.79807119116827 ⎥
+		⎜ -0.331197706701229 ⎥
+		⎜ -2.55853973841575 ⎥
+		⎜ -4.05933759298953 ⎥
+		⎜ 1.14509840010847 ⎥
+		⎜ -1.28499790691501 ⎥
+		⎜ -1.32406956279325 ⎥
+		⎜ -1.55886919443997 ⎥
+		⎝ -1.07225536447113 ⎠
+		Vrijednost funkcije:
+		0.0372241110609521
+	Schaffer f7 funkcija
+	Dimenzija: 1
+		Function minimum reached.
+		Generation number: 2598
+		Najbolja tocka:
+		( 8.05586518636111e-14 )
+		Vrijednost funkcije:
+		2.87915005378474e-07
+	Dimenzija: 3
+		Function minimum reached.
+		Generation number: 376063
+		Najbolja tocka:
+		⎛ -6.01025761819851e-13 ⎞
+		⎜ -2.61119356148347e-13 ⎥
+		⎝ -5.86609990426629e-13 ⎠
+		Vrijednost funkcije:
+		9.72676188696649e-07
+	Dimenzija: 6
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ 0.000274745971217116 ⎞
+		⎜ -0.00282519350457694 ⎥
+		⎜ -0.000649004954763782 ⎥
+		⎜ 7.1314371082101e-05 ⎥
+		⎜ -0.000450192271777596 ⎥
+		⎝ -0.000455581385847835 ⎠
+		Vrijednost funkcije:
+		0.0549661569081907
+	Dimenzija: 10
+		Max evaluation reached.
+		Generation number: 499987
+		Najbolja tocka:
+		⎛ -0.262447384017337 ⎞
+		⎜ -0.225420020566025 ⎥
+		⎜ -0.131791923883731 ⎥
+		⎜ -0.0694968773653836 ⎥
+		⎜ -0.178240740591529 ⎥
+		⎜ -0.168281186996334 ⎥
+		⎜ -0.0640582679892474 ⎥
+		⎜ -0.193348683740559 ⎥
+		⎜ -0.173468185028295 ⎥
+		⎝ -0.0450916386757602 ⎠
+		Vrijednost funkcije:
+		0.72513439429
